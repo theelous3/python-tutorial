@@ -1,6 +1,6 @@
 # Python programming tutorial
 
-[Python](https://en.wikipedia.org/wiki/Python_(programming_language) is a high-level, interactive and object-oriented programming language. Its simple syntax makes it a great choice for a first programming language for a beginner.
+[Python](https://en.wikipedia.org/wiki/Python_\(programming_language\)) is a high-level, interactive and object-oriented programming language. Its simple syntax makes it a great choice for a first programming language for a beginner.
 
 No tutorial is good for everyone. This one is aimed at people with no programming experience at all. If you have programmed in the past with some other language you probably want to read [the offical tutorial](https://docs.python.org/3/tutorial/) instead. Like most other tutorials, this tutorial starts with maths. You can skip that if you hate maths.
 
