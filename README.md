@@ -14,3 +14,4 @@ Here's a list of chapters in this tutorial:
 
 1. [Installing Python and using it as a calculator](1.md)
 2. [Strings and variables](2.md)
+3. [Using functions and storing code in files](3.md)

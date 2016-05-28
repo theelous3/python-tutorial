@@ -61,9 +61,11 @@ These are answers for exercises in the chapters. In programming, there's always 
         yes_space = no_space + " "
         print(yes_space * 999 + no_space)
 
-5. 
+3. Like this:
 
         first = input("Enter a word: ")
         second = input("Enter another word: ")
         words = first + " " + second + " "
         print(words * 1000)
+
+[Home](README.md)
