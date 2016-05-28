@@ -37,12 +37,14 @@ These are answers for exercises in the chapters. In programming, there's always 
         523.5987755982989
         >>>
 
-3. 
+### Chapter 3
+
+1. Like this:
 
         word = input("Enter a word: ")
         print(word * 1000)
 
-4. 
+2. Like this:
 
         word = input("Enter a word: ")
         word += " "
